@@ -162,7 +162,7 @@ function App() {
               pauseBetweenAnimations={1}
             />
             <div className="flex gap-7 mt-6">
-              <a href="https://drive.google.com/file/d/1QUOI3H9dBIz7PKfGZy5ZzzpPjfazVJhq/view?usp=sharing">
+              <a target="_blank" href="https://drive.google.com/file/d/1QUOI3H9dBIz7PKfGZy5ZzzpPjfazVJhq/view?usp=sharing">
                 <div className="">
                   <button className="p-[3px] cursor-pointer relative rounded-lg shadow-[0_20px_50px_rgba(0,0,0,_1)]">
                     <div className="absolute inset-0 bg-gradient-to-r from-emerald-950 to-green-300 rounded-lg" />
