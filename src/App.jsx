@@ -6,7 +6,7 @@ import HTML from "../src/assets/html.svg";
 import CSS from "../src/assets/css.svg";
 import Js from "../src/assets/js.svg";
 import ReactImg from "../src/assets/react.svg";
-import Tcss from "../src/assets/Tcss.svg";
+import Tcss from "../src/assets/tcss.svg";
 import Git from "../src/assets/git.svg";
 import GitHub from "../src/assets/github.svg";
 import { useState } from "react";
