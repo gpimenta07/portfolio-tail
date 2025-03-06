@@ -36,6 +36,7 @@ function App() {
   const [isVisible2, setIsVisible2] = useState(false);
   const [isVisible3, setIsVisible3] = useState(false);
   const [isVisibleMenu, setIsVisibleMenu] = useState(false);
+  
 
   return (
     <div className="bg-zinc-900 h-full">
